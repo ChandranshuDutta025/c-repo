@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "don.C": "cpp",
+        "operator precedence.C": "cpp",
+        "squar.C": "cpp",
+        "HelloWorld.C": "cpp",
+        "operatorprecedence.C": "cpp",
+        "problem.C": "cpp",
+        "condition.C": "cpp",
+        "ternaryoperator.C": "cpp",
+        "switchoperator.C": "cpp",
+        "forlop.C": "cpp",
+        "whileloop.C": "cpp",
+        "n.C": "cpp",
+        "dowhileloop.C": "cpp",
+        "nc.C": "cpp",
+        "calculator.C": "cpp",
+        "Table.C": "cpp",
+        "BREAK.C": "cpp",
+        "continue.C": "cpp",
+        "factorial.C": "cpp",
+        "summation.C": "cpp"
+    }
+}
