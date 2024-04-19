@@ -102,7 +102,7 @@ int main(){
             }
             else
             {
-                printf("%d > %d >%d.",c,a,b);
+                printf("%d > %d > %d.",c,a,b);
             }
         }
     }
@@ -122,10 +122,7 @@ int main(){
             {
                 printf("%d > %d > %d",a,c,b);
             }
-        }
-        
+        }   
     }
-        
-   
     return 0;
 }
