@@ -1,5 +1,6 @@
 #include<stdio.h>
-int main(){
+int main()
+{
     int a,b,c;
     printf("Input the three numbers here :");
     scanf("%d,%d,%d",&a,&b,&c);
@@ -98,7 +99,7 @@ int main(){
             
             if (b>a)
             {
-               printf("%d > %d >%d.",c,b,a);
+               printf("%d > %d > %d.",c,b,a);
             }
             else
             {
@@ -124,5 +125,6 @@ int main(){
             }
         }   
     }
+    
     return 0;
 }

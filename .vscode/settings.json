@@ -1,9 +1,5 @@
 {
     "files.associations": {
-        "funtion.C": "cpp",
-        "f.C": "cpp",
-        "Table.C": "cpp",
-        "Tablewithfunction.C": "cpp",
-        "3number.C": "cpp"
+        "square.C": "cpp"
     }
 }

@@ -8,6 +8,7 @@ int main() {
     for (int i = 1; i <= 10; i++) {
         multiply = n * i; // Multiply n with i
         printf("%d * %d = %d\n", n, i, multiply); // Display multiplication table
+       
     }
     return 0;
 }
